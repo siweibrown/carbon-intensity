@@ -1,0 +1,13 @@
+# Core data handling
+pandas==2.2.2
+requests==2.32.3
+
+# Database
+SQLAlchemy==2.0.32
+
+# Environment variables
+python-dotenv==1.0.1
+
+# API framework
+fastapi==0.115.0
+uvicorn==0.30.6
